@@ -1,6 +1,9 @@
 # Dual-task-video-retrieval
 This is the implementation of the dual-task model presented in Jiaxin Wu, Chong-Wah Ngo, Interpretable Embedding for Ad-Hoc Video Search, ACM Multimedia (ACM MM) 2020.
 
+##Set up
+The code is built on python 2.7 and torch 1.4. But it also goes with python 3.6. Other required packages please see requirement.txt.
+
 # training
 please refer to do_train_dual_task.sh. 
 
