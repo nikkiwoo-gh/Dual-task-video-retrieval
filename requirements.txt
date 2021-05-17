@@ -1,0 +1,7 @@
+numpy
+scikit-learn
+scipy
+tensorboard-logger
+torch
+torchvision
+future
